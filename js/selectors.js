@@ -6,3 +6,7 @@ function paragraphSelector() {
 function lastImageSelector() {
   return $(`img:last`)
 }
+
+function injaBabySelector() {
+  return $("#baby-ninja")
+}
